@@ -7,6 +7,6 @@ Unit tests are written in the Tau framework, and GSL BLAS functions are written 
 TODO:
 - [X] Write linalg tests
 - [X] Implement kalman struct
-- [ ] Implement kalman prediction and update
+- [X] Implement kalman prediction and update
 - [ ] Add runtime checks
 - [ ] Implement simple examples with plotting
