@@ -1,0 +1,21 @@
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# build output
+build/
+test/build/
+
+# output files
+output/
+
+# pycache
+*/__pycache__/
+
+# vim swap files
+*.swp
+
+# Incomplete examples directory
+examples/
